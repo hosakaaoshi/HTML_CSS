@@ -100,14 +100,14 @@
   .header-item{
     width: 100%;
     height: 50px;
-    margin-bottom: 50px;
+ 
   }
 
 .main{
   margin-top: 50px;
   margin-bottom: 50px;
   width: 100%;
-  height: 100%;
+  height: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -138,18 +138,21 @@
 
 .item{
   width: 90%;
+  height: 150px;
   background-size: cover;
   background-position: center;
 }
 
 .item2{
   width: 90%;
+  height: 150px;
   background-size: cover;
   background-position: center;
 }
 
 .item3{
   width: 90%;
+  height: 150px;
   background-size: cover;
   background-position: center;
 }
